@@ -28,11 +28,11 @@ Final-year B.Tech in **Artificial Intelligence & Data Science** at Thakur Colleg
 
 ### What I'm building
 
-- 🤖 **WhatsApp AI sales automation** — Meta Cloud API + Claude + n8n + PostgreSQL
-- 📝 **Automated content pipeline** — Claude AI + custom MCP servers + Tavily + WordPress REST
+- 🤖 **WhatsApp AI sales automation**  Meta Cloud API + Claude + n8n + PostgreSQL
+- 📝 **Automated content pipeline**  Claude AI + custom MCP servers + Tavily + WordPress REST
 - 🧠 **Internal prompt management system** — React + Tailwind + Node.js + Google Sheets backend
-- 🎵 **Multi-Agentic Music System** — personal R&D fusing classical and electronic production
-- 📚 Studying transformer internals (Karpathy's NN: Zero to Hero) — building, not just prompting
+- 🎵 **Multi-Agentic Music System**  personal R&D fusing classical and electronic production
+- 📚 Studying transformer internals (Karpathy's NN: Zero to Hero)  building, not just prompting
 
 ---
 
@@ -145,10 +145,10 @@ Final-year B.Tech in **Artificial Intelligence & Data Science** at Thakur Colleg
 
 ### 🏆 Recognition
 
-- 🥇 **Top performer** — TuteDude Buildathon 1.0 (Healthcare, 2025)
-- 🤝 **Participant** — Mumbai Hacks @ Atlas SkillTech University
-- 🏊 **2× Gold** — Swimming, GCC Club Inter-college Championships
-- 💪 **Champion** — Tug-of-War, Inter-college Event
+- 🥇 **Top performer**  TuteDude Buildathon 1.0 (Healthcare, 2025)
+- 🤝 **Participant**  Mumbai Hacks @ Atlas SkillTech University
+- 🏊 **2× Gold**  Swimming, GCC Club Inter-college Championships
+- 💪 **Champion**  Tug-of-War, Inter-college Event
 
 ---
 
