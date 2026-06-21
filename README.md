@@ -30,7 +30,7 @@ Final-year B.Tech in **Artificial Intelligence & Data Science** at Thakur Colleg
 
 - 🤖 **WhatsApp AI sales automation**  Meta Cloud API + Claude + n8n + PostgreSQL
 - 📝 **Automated content pipeline**  Claude AI + custom MCP servers + Tavily + WordPress REST
-- 🧠 **Internal prompt management system** — React + Tailwind + Node.js + Google Sheets backend
+- 🧠 **Internal prompt management system**  React + Tailwind + Node.js + Google Sheets backend
 - 🎵 **Multi-Agentic Music System**  personal R&D fusing classical and electronic production
 - 📚 Studying transformer internals (Karpathy's NN: Zero to Hero)  building, not just prompting
 
