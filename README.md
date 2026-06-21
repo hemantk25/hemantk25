@@ -7,10 +7,15 @@
 </p>
 
 <p align="center">
+  <a href="https://hemant-kailkhuri.netlify.app"><img src="https://img.shields.io/badge/▶_PORTFOLIO-00f0ff?style=for-the-badge&logo=netlify&logoColor=0a0e14&labelColor=0a0e14" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/hemant-kailkhuri-30ab00313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hkailkhuri@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/hemantk25"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=hemantk25&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://hemant-kailkhuri.netlify.app"><b>→ hemant-kailkhuri.netlify.app ←</b></a>
 </p>
 
 ---
