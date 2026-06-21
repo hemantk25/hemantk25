@@ -149,7 +149,7 @@ Final-year B.Tech in **Artificial Intelligence & Data Science** at Thakur Colleg
 
 ### 🎵 Beyond code
 
-When I'm not building agents, I'm learning the **bansuri** (Indian bamboo flute) and producing electronic music in FL Studio. Currently working through Raga Yaman and the drift-phonk Phrygian-dominant universe — different vocabularies, same physics.
+When I'm not building agents, I'm learning the **bansuri** (Indian bamboo flute) and producing electronic music in FL Studio. Currently working through Raga Yaman and the drift-phonk Phrygian-dominant universe  different vocabularies, same physics.
 
 ---
 
