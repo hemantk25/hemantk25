@@ -24,7 +24,7 @@
 
 I build production AI systems  LLM agents, automation workflows, end-to-end pipelines. Currently an **AI Automation Engineer at [Acquest Advisors](https://acquestadvisors.com)** where I designed a WhatsApp sales agent (Claude Haiku + n8n + PostgreSQL on Hetzner) that cut monthly operations cost by **86%** (₹60,000 → ₹8,600).
 
-Final-year B.Tech in **Artificial Intelligence & Data Science** at Thakur College of Engineering, Mumbai.
+B.Tech in **Artificial Intelligence & Data Science** at Thakur College of Engineering, Mumbai.
 
 ### What I'm building
 
